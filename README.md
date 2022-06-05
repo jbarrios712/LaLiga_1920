@@ -7,4 +7,4 @@ The Analysis includes:
 - Extracting each team's top scorers.
 - A correlation heatmap for some of the attributes of the top scorers of the season. 
 - A simple Radarchart comparing Messi to the rest of the top scorers on a few attributes. 
-- Scatter plot for dribbling efficiency and shots on targe efficiency for the top scorers of all teams. 
+- Scatter plot for dribbling efficiency and shots on target efficiency for the top scorers of all teams. 
